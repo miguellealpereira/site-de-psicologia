@@ -1,0 +1,9 @@
+/* Imagem de fundo da página */
+body {
+    background-image: url('/site-de-psicologia/images/fundo-do-index.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
