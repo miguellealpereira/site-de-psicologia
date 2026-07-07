@@ -1,1 +1,1 @@
-<img align="center" height="100px" style="padding: 50px;" src="./logo/logo-do-site.png">
+<img align="center" height="70px" style="padding: 50px;" src="./logo/logo-do-site.png">
