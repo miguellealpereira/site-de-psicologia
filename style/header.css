@@ -10,7 +10,6 @@
     font-weight: bold;
     font-size: 1.5rem;
     transition: transform 0.3s ease;
-    text-align: center;
 }
 
 .navbar-brand:hover {
@@ -18,11 +17,16 @@
 }
 
 /* Cor dos links do navbar */
+.navbar-nav {
+    margin-left: auto !important;
+}
+
 .navbar-nav .nav-link {
     color: #ffffff !important;
     transition: color 0.3s ease;
     margin: 0 0.5rem;
     padding: 0.5rem 0.75rem !important;
+    font-weight: 500;
 }
 
 /* Efeito hover nos links */
@@ -33,6 +37,7 @@
 /* Cor do link ativo */
 .navbar-nav .nav-link.active {
     color: #ffffff !important;
+  
 }
 
 /* Estilo do dropdown button */
@@ -79,7 +84,4 @@
     border-color: #ffffff !important;
 }
 
-.navbar-toggler-icon {
-    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23ffffff' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
-}
 
