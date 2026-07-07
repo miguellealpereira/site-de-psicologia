@@ -1,1 +1,3 @@
-<img align="center" height="260px" style="padding: 50px;" src="./logo/logo-do-site.png">
+<p align="center">
+  <img src="./logo/logo-do-site.png" alt="Logo" width="260">
+</p>
