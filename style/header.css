@@ -1,0 +1,28 @@
+.navbar.navbar-expand-lg.bg-body-tertiary{
+
+    background-color: #1A3932 !important;
+
+}
+
+/* Cor do texto principal (navbar-brand) */
+.navbar-brand {
+    color: #C9A869 !important;
+    font-weight: bold;
+}
+
+/* Cor dos links do navbar */
+.navbar-nav .nav-link {
+    color: #ffffff !important;
+    transition: color 0.3s ease;
+}
+
+/* Efeito hover nos links */
+.navbar-nav .nav-link:hover {
+    color: #c8d6d2 !important;
+}
+
+/* Cor do link ativo */
+.navbar-nav .nav-link.active {
+    color: #ffffff !important;
+}
+
