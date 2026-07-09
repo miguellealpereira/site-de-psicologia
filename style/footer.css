@@ -2,11 +2,12 @@
     background-color: #1A3932 !important;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
     padding: 1rem 0;
+    text-align: center;
 }
 
-.text{
+.footer .text {
+    display: block;
     color: #ffffff !important;
     font-weight: bold;
     font-size: 12px;
-    text-align: center;
 }

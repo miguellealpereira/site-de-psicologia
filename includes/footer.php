@@ -22,7 +22,7 @@
     <nav class="footer ">
         <div class="container-fluid">
             <span class="text">
-                Navbar text with an inline element
+                © 2026 Psicóloga Letícia Leal. Todos os direitos reservados.
             </span>
         </div>
     </nav>
