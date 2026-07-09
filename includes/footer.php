@@ -19,12 +19,12 @@
     
 
 
-    <nav class="navbar bg-body-tertiary">
-    <div class="container-fluid">
-        <span class="navbar-text">
-        Navbar text with an inline element
-        </span>
-    </div>
+    <nav class="footer ">
+        <div class="container-fluid">
+            <span class="text">
+                Navbar text with an inline element
+            </span>
+        </div>
     </nav>
 
 </body>
