@@ -14,7 +14,7 @@
 
 #
 
-# 🎨 Paleta de Cores
+<h1 align="center"> Paleta de Cores </h1>
 
 A identidade visual do site foi desenvolvida utilizando tons de verde e dourado para transmitir confiança, acolhimento, ética e profissionalismo, características essenciais para um consultório de Psicologia.
 
