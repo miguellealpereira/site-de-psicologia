@@ -5,12 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Psicóloga Letícia Leal</title>
 
+    <!-- Bootstrap 5.3.8 JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
     <!-- Bootstrap 5.3.8 CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/site-de-psicologia/style/index.css">
     <link rel="stylesheet" href="/site-de-psicologia/style/header.css">
     <link rel="stylesheet" href="/site-de-psicologia/style/footer.css">
+
 </head>
 <body>
 
@@ -22,7 +25,11 @@ require_once 'includes/header.php';
 require_once 'includes/footer.php';
 ?>
 
-<!-- Bootstrap 5.3.8 JS -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+<section id="inicio" class="hero">
+    <div class="container">
+        ...
+    </div>
+</section>
+
 </body>
 </html>
