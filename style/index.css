@@ -153,3 +153,33 @@ body {
 
     border-radius: 10px;
 }
+
+.btn-gold{
+    background-color: #C9A869;
+    color: #fff;
+    border: none;
+
+    padding: 13px 28px;
+
+    border-radius: 40px;
+
+    font-weight: 600;
+
+    transition: all .3s ease;
+}
+
+.btn-gold:hover{
+    background-color: #B8944D;
+    color: #fff;
+
+    transform: translateY(-3px);
+
+    box-shadow: 0 10px 20px rgba(0,0,0,.15);
+}
+
+.btn-gold:focus,
+.btn-gold:active{
+    background-color: #B8944D !important;
+    color: #fff !important;
+    box-shadow: none;
+}
