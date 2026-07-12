@@ -115,3 +115,41 @@ body {
     
     transition: transform 0.3s ease;
 }
+
+.linha-dourada{
+    width:100px;
+    height:5px;
+
+    background:#C9A869;
+
+    border:none;
+
+    border-radius:10px;
+
+    opacity:1;
+
+    margin:20px 0 40px;
+}
+
+.timeline{
+    position: relative;
+    padding-left: 35px;
+}
+
+.timeline::before{
+    content: "";
+
+    position: absolute;
+
+    left: 0;
+
+    top: 18px;
+
+    bottom: 18px;
+
+    width: 3px;
+
+    background: #C9A869;
+
+    border-radius: 10px;
+}

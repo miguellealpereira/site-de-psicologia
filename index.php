@@ -79,6 +79,9 @@
                 <h2 class="tcc mb-4">
                 Terapia Cognitivo-Comportamental
                 </h2>
+                
+                
+
 
                 <p>
                 A TCC é uma abordagem que ajuda a compreender a relação entre pensamentos,
