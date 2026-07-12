@@ -10,7 +10,7 @@
           <a class="nav-link active" aria-current="page" href="#inicio">Início</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
+          <a class="nav-link" href="#tcc">TCC</a>
         </li>
         <li class="nav-item dropdown">
           <button class="nav-link dropdown-toggle" type="button" id="dropdown-menu" data-bs-toggle="dropdown" aria-expanded="false">
