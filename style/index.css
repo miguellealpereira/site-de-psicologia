@@ -1,11 +1,7 @@
 /* Imagem de fundo da página */
 body {
-    background-image: url('../images/fundo-do-index.png');
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    min-height: 100vh;
+    
+    background-color:#FAFBFA;
 }
 
 .hero{
@@ -36,11 +32,11 @@ body {
 }
 
 .gold{
-    color:#C9A869;
+    color:#C9A869 !important;
 }
 
 .gold2{
-    color:#fdb123;
+    color:#fdb123 !important;
     
 }
 
@@ -78,4 +74,44 @@ body {
 .btn-gold:hover{
     background:#b8944d;
     color:white;
+}
+
+.sobre{
+    background-color:beige;
+    padding:50px 0;
+}
+
+.titulo-sobre{
+    font-size:clamp(2rem, 4vw, 3rem);
+    font-weight:800;
+    line-height:1.1;
+    color:#FAFBFA;
+    text-shadow:0 5px 20px rgba(0,0,0,.35);
+    margin-bottom:25px;
+    text-align:center;
+}
+
+.verde{
+    color:#304D46 !important;
+}
+
+.sobre-card{
+    background: rgba(255, 255, 255, 0.85);
+    border: 2px solid #C9A869;
+    border-radius: 25px;
+    backdrop-filter: blur(12px);
+    color: rgb(0, 88, 47);
+    padding:20px;
+    margin-bottom:20px;
+    
+}
+
+.tcc{
+    line-height:1.1;
+    font-size:clamp(2rem, 4vw, 3rem);
+    font-weight:800;
+    color:#304D46 !important;
+    font-weight: bold;
+    
+    transition: transform 0.3s ease;
 }
