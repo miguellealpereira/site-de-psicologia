@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Site institucional desenvolvido para apresentar serviços de Psicologia de forma profissional, moderna, acolhedora e responsiva.
+  Site desenvolvido para apresentar serviços de Psicologia de forma profissional, moderna, acolhedora e responsiva.
 </p>
 
 ---
