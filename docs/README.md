@@ -1,7 +1,7 @@
 # 🧠 Site de Psicologia
 
 <p align="center">
-  <img src="logo/logo-do-site.png" width="250" alt="Logo do Site de Psicologia">
+  <img src="../logo/logo-do-site.png" width="250" alt="Logo do Site de Psicologia">
 </p>
 
 <p align="center">
