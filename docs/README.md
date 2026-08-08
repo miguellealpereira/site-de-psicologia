@@ -235,12 +235,10 @@ O site ainda pode receber novas funcionalidades, melhorias de interface e otimiz
 ### Possíveis melhorias futuras
 
 * [ ] Página de contato;
-* [ ] Integração com WhatsApp;
 * [ ] Formulário de contato;
 * [ ] Sistema de agendamento;
 * [ ] Melhorias de acessibilidade;
 * [ ] Otimização de desempenho;
-* [ ] Melhorias de SEO;
 * [ ] Animações e transições;
 * [ ] Área administrativa;
 * [ ] Integração completa com banco de dados.
